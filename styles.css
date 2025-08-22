@@ -6,7 +6,7 @@
 
 body {
 	font-family: 'Arial', sans-serif;
-	background-color: brown;
+	background-color: #20161f;
 	color: #c59f60;
 }
 
@@ -119,4 +119,24 @@ button {
 	li {
 		display: block;
 	}
+}
+
+.news {
+	margin: 20px;
+}
+
+.news article {
+	background-color: #3a2d32;
+	padding: 15px;
+	margin-bottom: 15px;
+	border-radius: 8px;
+}
+
+.news h3 {
+	color: #db924b;
+	margin-bottom: 10px;
+}
+
+.news p {
+	color: #c9c7c9;
 }
